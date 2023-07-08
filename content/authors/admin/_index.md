@@ -22,12 +22,12 @@ organizations:
     url: https://www.shanghaitech.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed Artificial Intelligence, Digital Twin, Deep Learning and Reinforcement Learning.
+bio: My research interests include distributed Artificial Intelligence, Digital Twin in Healthcare, Deep Learning and Reinforcement Learning.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Digital Twin
+  - Digital Twin in Healthcare
   - Deep Learning
   - Reinforcement Learning
 
@@ -36,10 +36,10 @@ education:
   courses:
     - course: MEng in Computer Science
       institution: Shanghaitech University
-      year: 2020-2023
+      year: 2020
     - course: BSc in Computer Science
       institution: University of Jinan
-      year: 2016-2020
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
