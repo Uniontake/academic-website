@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haochen Yang 杨昊晨
+title: Haochen Yang
 
 # Full name (for SEO)
 first_name: Haochen
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MS of Artificial Intelligence
+role: M.S Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
