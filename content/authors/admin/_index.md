@@ -34,10 +34,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Computer Science
+    - course: MS.E in Computer Science
       institution: Shanghaitech University
       year: 2020
-    - course: BSc in Computer Science
+    - course: BS.E in Computer Science
       institution: University of Jinan
       year: 2016
 
